@@ -1,6 +1,6 @@
-95d68576dda6069a959af6e2d7a0a4c0 *DESCRIPTION
+5b5bd2b30e6c2040f9e12bf929aa5def *DESCRIPTION
 e6f9aa3f361e73cc73eb27e13c22917b *NAMESPACE
-3979e83c242a7d43ee68acbcf009b73d *NEWS.md
+53fe54ad7e9de1f470d06f0493de5117 *NEWS.md
 630999036abdae0dc88bf4905da3ec75 *R/RcppExports.R
 4c4d4214045934bcd49109744647bedc *R/add_constant_robust_constraints.R
 c1bcf4e1fc4d5c762cab29b50c036e60 *R/add_robust_min_set_objective.R
@@ -22,10 +22,10 @@ f9984803d36fb5a566776c3168e09967 *R/internal.R
 ffbeb88d388ebb386688b901fd2c55c9 *R/robust_objectives.R
 32291521b6af31652ca1534b32df2024 *R/run_example.R
 da4bf3aa0638b8445e1685a39069a346 *R/transform_targets.R
-d0e19bdbf522fa62dcc02870d21cd18c *README.md
+b9c42488c85b77c9ff3292e125fc2f46 *README.md
 4a904ac4299361f960fd7cddc40bcb91 *build/vignette.rds
 5aa17501fe05df360a8d51815e5127e5 *inst/doc/climate-sdm.Rmd
-36de5e637481fc8b420032bd3a091d71 *inst/doc/climate-sdm.html
+822dbb7056a336f6c9bf88d7afddf193 *inst/doc/climate-sdm.html
 9bd69b5781eec996e7c51495ca5e9f8d *inst/doc/robust.prioritizr.Rmd
 d671d659662f56cd19153346cbbb1015 *inst/doc/robust.prioritizr.html
 ea072b2a2e16df1532acd904b02a148e *inst/doc/vic-cons-planning.Rmd
@@ -45,7 +45,7 @@ b0966eafcf0ddd8ae00035c1926b5b99 *man/add_robust_min_set_objective.Rd
 2feae7eec296a210c702417ed87ee17e *man/add_variable_robust_constraints.Rd
 a1b721d47293d5493d6ec40281ece98a *man/data.Rd
 4f9deeb6bd3c842f5fd8bfa5371cc2d4 *man/figures/README-unnamed-chunk-4-1.png
-de73d68ce6bdcdff940d98026d0b8b82 *man/figures/README-unnamed-chunk-5-1.png
+0a2285fb9584974c47b1aeed75825d67 *man/figures/README-unnamed-chunk-5-1.png
 391f696f961e28914508628a7af31b74 *man/figures/lifecycle-deprecated.svg
 691b1eb2aec9e1bec96b79d11ba5e631 *man/figures/lifecycle-experimental.svg
 ed42e3fbd7cc30bc6ca8fa9b658e24a8 *man/figures/lifecycle-stable.svg

@@ -1,7 +1,7 @@
 Package: robust.prioritizr
 Type: Package
 Title: Robust Systematic Conservation Prioritization
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: 
     c(person(c('Frankie'), 'Cho',
         email='frankie.cho@monash.edu', role = c('aut', 'cre', 'cph'),
@@ -21,14 +21,14 @@ Description:
     change scenario projections, species distribution models, ecosystem service
     models, and measurement errors. In particular, prioritizations can be
     generated to be fully robust to uncertainty by minimizing (or maximizing)
-    objectives under the worst possible outcome. Since reducing the associated
-    with achieving conservation objectives may sacrifice other objectives (e.g.,
-    minimizing protected area implementation costs), prioritizations can also be
-    generated to be partially robust based on a specified confidence level
-    parameter. Partially robust prioritizations can be generated based on the
-    chance constrained programming problem (Charnes & Cooper 1959,
-    <doi:10.1287/mnsc.6.1.73>) and the conditional value-at-risk problem
-    (Rockafellar & Uryasev 2000, <doi:10.21314/JOR.2000.038>).
+    objectives under the worst possible outcome. Since reducing the uncertainty
+    associated with achieving conservation objectives may sacrifice other
+    objectives (e.g., minimizing protected area implementation costs),
+    prioritizations can also be generated to be partially robust based on a
+    specified confidence level parameter. Partially robust prioritizations can
+    be generated based on the chance constrained programming problem (Charnes &
+    Cooper 1959, <doi:10.1287/mnsc.6.1.73>) and the conditional value-at-risk
+    problem (Rockafellar & Uryasev 2000, <doi:10.21314/JOR.2000.038>).
 Encoding: UTF-8
 License: GPL (>= 3)
 Language: en-US
@@ -64,10 +64,10 @@ Config/testthat/edition: 3
 Config/Needs/website: tibble, stringr, ggplot2, tidyr, patchwork,
         tidyterra, dplyr, piggyback
 NeedsCompilation: yes
-Packaged: 2026-02-26 02:16:57 UTC; fcho0021
+Packaged: 2026-03-17 01:14:54 UTC; fcho0021
 Author: Frankie Cho [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0003-1369-4980>),
   Jeffrey O Hanson [aut] (ORCID: <https://orcid.org/0000-0002-4716-6134>)
 Maintainer: Frankie Cho <frankie.cho@monash.edu>
 Repository: CRAN
-Date/Publication: 2026-03-03 21:30:02 UTC
+Date/Publication: 2026-03-17 06:30:02 UTC
