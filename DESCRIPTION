@@ -1,7 +1,7 @@
 Package: robust.prioritizr
 Type: Package
 Title: Robust Systematic Conservation Prioritization
-Version: 1.0.3
+Version: 1.1.0
 Authors@R: 
     c(person(c('Frankie'), 'Cho',
         email='frankie.cho@monash.edu', role = c('aut', 'cre', 'cph'),
@@ -64,10 +64,10 @@ Config/testthat/edition: 3
 Config/Needs/website: tibble, stringr, ggplot2, tidyr, patchwork,
         tidyterra, dplyr, piggyback
 NeedsCompilation: yes
-Packaged: 2026-03-17 01:14:54 UTC; fcho0021
+Packaged: 2026-05-29 03:52:19 UTC; fcho0021
 Author: Frankie Cho [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0003-1369-4980>),
   Jeffrey O Hanson [aut] (ORCID: <https://orcid.org/0000-0002-4716-6134>)
 Maintainer: Frankie Cho <frankie.cho@monash.edu>
 Repository: CRAN
-Date/Publication: 2026-03-17 06:30:02 UTC
+Date/Publication: 2026-05-29 23:20:02 UTC
